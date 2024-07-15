@@ -1,0 +1,1988 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="407" passed="402" failed="5" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-18T10:37:41 AEST" name="Default suite" finished-at="2024-05-18T10:38:15 AEST" duration-ms="34556">
+    <groups>
+    </groups>
+    <test started-at="2024-05-18T10:37:41 AEST" name="Default test" finished-at="2024-05-18T10:38:15 AEST" duration-ms="34556">
+      <class name="com.sdetadda.allure.RestAssuredTestCases">
+        <test-method signature="testGetHeadingWithAnchorAndIdEmptyHeading()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:41 AEST" name="testGetHeadingWithAnchorAndIdEmptyHeading" finished-at="2024-05-18T10:37:48 AEST" duration-ms="6842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdEmptyHeading -->
+        <test-method signature="testGetHeadingWithAnchorAndIdEmptyHeadingAndText()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:48 AEST" name="testGetHeadingWithAnchorAndIdEmptyHeadingAndText" finished-at="2024-05-18T10:37:48 AEST" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdEmptyHeadingAndText -->
+        <test-method signature="testGetHeadingWithAnchorAndIdEmptyHeadingAndTextAndUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:48 AEST" name="testGetHeadingWithAnchorAndIdEmptyHeadingAndTextAndUrl" finished-at="2024-05-18T10:37:48 AEST" duration-ms="133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdEmptyHeadingAndTextAndUrl -->
+        <test-method signature="testGetHeadingWithAnchorAndIdEmptyHeadingAndTextAndUrlAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:48 AEST" name="testGetHeadingWithAnchorAndIdEmptyHeadingAndTextAndUrlAndZeroId" finished-at="2024-05-18T10:37:48 AEST" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdEmptyHeadingAndTextAndUrlAndZeroId -->
+        <test-method signature="testGetHeadingWithAnchorAndIdEmptyHeadingAndTextAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:49 AEST" name="testGetHeadingWithAnchorAndIdEmptyHeadingAndTextAndZeroId" finished-at="2024-05-18T10:37:49 AEST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdEmptyHeadingAndTextAndZeroId -->
+        <test-method signature="testGetHeadingWithAnchorAndIdEmptyHeadingAndUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:49 AEST" name="testGetHeadingWithAnchorAndIdEmptyHeadingAndUrl" finished-at="2024-05-18T10:37:49 AEST" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdEmptyHeadingAndUrl -->
+        <test-method signature="testGetHeadingWithAnchorAndIdEmptyHeadingAndUrlZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:49 AEST" name="testGetHeadingWithAnchorAndIdEmptyHeadingAndUrlZeroId" finished-at="2024-05-18T10:37:49 AEST" duration-ms="89" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdEmptyHeadingAndUrlZeroId -->
+        <test-method signature="testGetHeadingWithAnchorAndIdEmptyHeadingAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:49 AEST" name="testGetHeadingWithAnchorAndIdEmptyHeadingAndZeroId" finished-at="2024-05-18T10:37:49 AEST" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdEmptyHeadingAndZeroId -->
+        <test-method signature="testGetHeadingWithAnchorAndIdEmptyText()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:49 AEST" name="testGetHeadingWithAnchorAndIdEmptyText" finished-at="2024-05-18T10:37:50 AEST" duration-ms="767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdEmptyText -->
+        <test-method signature="testGetHeadingWithAnchorAndIdEmptyTextAndUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:50 AEST" name="testGetHeadingWithAnchorAndIdEmptyTextAndUrl" finished-at="2024-05-18T10:37:50 AEST" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdEmptyTextAndUrl -->
+        <test-method signature="testGetHeadingWithAnchorAndIdEmptyTextAndUrlAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:50 AEST" name="testGetHeadingWithAnchorAndIdEmptyTextAndUrlAndZeroId" finished-at="2024-05-18T10:37:50 AEST" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdEmptyTextAndUrlAndZeroId -->
+        <test-method signature="testGetHeadingWithAnchorAndIdEmptyTextAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:50 AEST" name="testGetHeadingWithAnchorAndIdEmptyTextAndZeroId" finished-at="2024-05-18T10:37:50 AEST" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdEmptyTextAndZeroId -->
+        <test-method signature="testGetHeadingWithAnchorAndIdEmptyUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:50 AEST" name="testGetHeadingWithAnchorAndIdEmptyUrl" finished-at="2024-05-18T10:37:50 AEST" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdEmptyUrl -->
+        <test-method signature="testGetHeadingWithAnchorAndIdEmptyUrlAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:50 AEST" name="testGetHeadingWithAnchorAndIdEmptyUrlAndZeroId" finished-at="2024-05-18T10:37:50 AEST" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdEmptyUrlAndZeroId -->
+        <test-method signature="testGetHeadingWithAnchorAndIdLongHeading()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:50 AEST" name="testGetHeadingWithAnchorAndIdLongHeading" finished-at="2024-05-18T10:37:50 AEST" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdLongHeading -->
+        <test-method signature="testGetHeadingWithAnchorAndIdLongHeadingAndText()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:50 AEST" name="testGetHeadingWithAnchorAndIdLongHeadingAndText" finished-at="2024-05-18T10:37:51 AEST" duration-ms="461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdLongHeadingAndText -->
+        <test-method signature="testGetHeadingWithAnchorAndIdLongHeadingAndTextAndUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:51 AEST" name="testGetHeadingWithAnchorAndIdLongHeadingAndTextAndUrl" finished-at="2024-05-18T10:37:51 AEST" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdLongHeadingAndTextAndUrl -->
+        <test-method signature="testGetHeadingWithAnchorAndIdLongHeadingAndTextAndUrlAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:51 AEST" name="testGetHeadingWithAnchorAndIdLongHeadingAndTextAndUrlAndZeroId" finished-at="2024-05-18T10:37:51 AEST" duration-ms="100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdLongHeadingAndTextAndUrlAndZeroId -->
+        <test-method signature="testGetHeadingWithAnchorAndIdLongHeadingAndTextAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:51 AEST" name="testGetHeadingWithAnchorAndIdLongHeadingAndTextAndZeroId" finished-at="2024-05-18T10:37:51 AEST" duration-ms="85" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdLongHeadingAndTextAndZeroId -->
+        <test-method signature="testGetHeadingWithAnchorAndIdLongHeadingAndUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:51 AEST" name="testGetHeadingWithAnchorAndIdLongHeadingAndUrl" finished-at="2024-05-18T10:37:51 AEST" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdLongHeadingAndUrl -->
+        <test-method signature="testGetHeadingWithAnchorAndIdLongHeadingAndUrlZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:52 AEST" name="testGetHeadingWithAnchorAndIdLongHeadingAndUrlZeroId" finished-at="2024-05-18T10:37:52 AEST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdLongHeadingAndUrlZeroId -->
+        <test-method signature="testGetHeadingWithAnchorAndIdLongHeadingAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:52 AEST" name="testGetHeadingWithAnchorAndIdLongHeadingAndZeroId" finished-at="2024-05-18T10:37:52 AEST" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdLongHeadingAndZeroId -->
+        <test-method signature="testGetHeadingWithAnchorAndIdLongText()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:52 AEST" name="testGetHeadingWithAnchorAndIdLongText" finished-at="2024-05-18T10:37:52 AEST" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdLongText -->
+        <test-method signature="testGetHeadingWithAnchorAndIdLongTextAndUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:52 AEST" name="testGetHeadingWithAnchorAndIdLongTextAndUrl" finished-at="2024-05-18T10:37:52 AEST" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdLongTextAndUrl -->
+        <test-method signature="testGetHeadingWithAnchorAndIdLongTextAndUrlAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:52 AEST" name="testGetHeadingWithAnchorAndIdLongTextAndUrlAndZeroId" finished-at="2024-05-18T10:37:52 AEST" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdLongTextAndUrlAndZeroId -->
+        <test-method signature="testGetHeadingWithAnchorAndIdLongTextAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:52 AEST" name="testGetHeadingWithAnchorAndIdLongTextAndZeroId" finished-at="2024-05-18T10:37:52 AEST" duration-ms="69" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdLongTextAndZeroId -->
+        <test-method signature="testGetHeadingWithAnchorAndIdLongUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:52 AEST" name="testGetHeadingWithAnchorAndIdLongUrl" finished-at="2024-05-18T10:37:52 AEST" duration-ms="66" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdLongUrl -->
+        <test-method signature="testGetHeadingWithAnchorAndIdLongUrlAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:52 AEST" name="testGetHeadingWithAnchorAndIdLongUrlAndZeroId" finished-at="2024-05-18T10:37:52 AEST" duration-ms="89" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdLongUrlAndZeroId -->
+        <test-method signature="testGetHeadingWithAnchorAndIdNullHeading()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:52 AEST" name="testGetHeadingWithAnchorAndIdNullHeading" finished-at="2024-05-18T10:37:52 AEST" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdNullHeading -->
+        <test-method signature="testGetHeadingWithAnchorAndIdNullHeadingAndText()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:52 AEST" name="testGetHeadingWithAnchorAndIdNullHeadingAndText" finished-at="2024-05-18T10:37:52 AEST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdNullHeadingAndText -->
+        <test-method signature="testGetHeadingWithAnchorAndIdNullHeadingAndTextAndUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:52 AEST" name="testGetHeadingWithAnchorAndIdNullHeadingAndTextAndUrl" finished-at="2024-05-18T10:37:52 AEST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdNullHeadingAndTextAndUrl -->
+        <test-method signature="testGetHeadingWithAnchorAndIdNullHeadingAndTextAndUrlAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:52 AEST" name="testGetHeadingWithAnchorAndIdNullHeadingAndTextAndUrlAndZeroId" finished-at="2024-05-18T10:37:52 AEST" duration-ms="69" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdNullHeadingAndTextAndUrlAndZeroId -->
+        <test-method signature="testGetHeadingWithAnchorAndIdNullHeadingAndTextAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:52 AEST" name="testGetHeadingWithAnchorAndIdNullHeadingAndTextAndZeroId" finished-at="2024-05-18T10:37:53 AEST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdNullHeadingAndTextAndZeroId -->
+        <test-method signature="testGetHeadingWithAnchorAndIdNullHeadingAndUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:53 AEST" name="testGetHeadingWithAnchorAndIdNullHeadingAndUrl" finished-at="2024-05-18T10:37:53 AEST" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdNullHeadingAndUrl -->
+        <test-method signature="testGetHeadingWithAnchorAndIdNullHeadingAndUrlZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:53 AEST" name="testGetHeadingWithAnchorAndIdNullHeadingAndUrlZeroId" finished-at="2024-05-18T10:37:53 AEST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdNullHeadingAndUrlZeroId -->
+        <test-method signature="testGetHeadingWithAnchorAndIdNullHeadingAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:53 AEST" name="testGetHeadingWithAnchorAndIdNullHeadingAndZeroId" finished-at="2024-05-18T10:37:53 AEST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdNullHeadingAndZeroId -->
+        <test-method signature="testGetHeadingWithAnchorAndIdNullId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:53 AEST" name="testGetHeadingWithAnchorAndIdNullId" finished-at="2024-05-18T10:37:53 AEST" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdNullId -->
+        <test-method signature="testGetHeadingWithAnchorAndIdNullText()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:53 AEST" name="testGetHeadingWithAnchorAndIdNullText" finished-at="2024-05-18T10:37:53 AEST" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdNullText -->
+        <test-method signature="testGetHeadingWithAnchorAndIdNullTextAndUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:53 AEST" name="testGetHeadingWithAnchorAndIdNullTextAndUrl" finished-at="2024-05-18T10:37:53 AEST" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdNullTextAndUrl -->
+        <test-method signature="testGetHeadingWithAnchorAndIdNullTextAndUrlAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:53 AEST" name="testGetHeadingWithAnchorAndIdNullTextAndUrlAndZeroId" finished-at="2024-05-18T10:37:53 AEST" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdNullTextAndUrlAndZeroId -->
+        <test-method signature="testGetHeadingWithAnchorAndIdNullTextAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:53 AEST" name="testGetHeadingWithAnchorAndIdNullTextAndZeroId" finished-at="2024-05-18T10:37:53 AEST" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdNullTextAndZeroId -->
+        <test-method signature="testGetHeadingWithAnchorAndIdNullUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:53 AEST" name="testGetHeadingWithAnchorAndIdNullUrl" finished-at="2024-05-18T10:37:53 AEST" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdNullUrl -->
+        <test-method signature="testGetHeadingWithAnchorAndIdNullUrlAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:53 AEST" name="testGetHeadingWithAnchorAndIdNullUrlAndZeroId" finished-at="2024-05-18T10:37:53 AEST" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdNullUrlAndZeroId -->
+        <test-method signature="testGetHeadingWithAnchorAndIdSpecialCharactersHeading()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:53 AEST" name="testGetHeadingWithAnchorAndIdSpecialCharactersHeading" finished-at="2024-05-18T10:37:53 AEST" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdSpecialCharactersHeading -->
+        <test-method signature="testGetHeadingWithAnchorAndIdSpecialCharactersHeadingAndText()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:53 AEST" name="testGetHeadingWithAnchorAndIdSpecialCharactersHeadingAndText" finished-at="2024-05-18T10:37:53 AEST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdSpecialCharactersHeadingAndText -->
+        <test-method signature="testGetHeadingWithAnchorAndIdSpecialCharactersHeadingAndTextAndUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:53 AEST" name="testGetHeadingWithAnchorAndIdSpecialCharactersHeadingAndTextAndUrl" finished-at="2024-05-18T10:37:53 AEST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdSpecialCharactersHeadingAndTextAndUrl -->
+        <test-method signature="testGetHeadingWithAnchorAndIdSpecialCharactersHeadingAndTextAndUrlAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:53 AEST" name="testGetHeadingWithAnchorAndIdSpecialCharactersHeadingAndTextAndUrlAndZeroId" finished-at="2024-05-18T10:37:53 AEST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdSpecialCharactersHeadingAndTextAndUrlAndZeroId -->
+        <test-method signature="testGetHeadingWithAnchorAndIdSpecialCharactersHeadingAndTextAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:53 AEST" name="testGetHeadingWithAnchorAndIdSpecialCharactersHeadingAndTextAndZeroId" finished-at="2024-05-18T10:37:53 AEST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdSpecialCharactersHeadingAndTextAndZeroId -->
+        <test-method signature="testGetHeadingWithAnchorAndIdSpecialCharactersHeadingAndUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:53 AEST" name="testGetHeadingWithAnchorAndIdSpecialCharactersHeadingAndUrl" finished-at="2024-05-18T10:37:54 AEST" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdSpecialCharactersHeadingAndUrl -->
+        <test-method signature="testGetHeadingWithAnchorAndIdSpecialCharactersHeadingAndUrlZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:54 AEST" name="testGetHeadingWithAnchorAndIdSpecialCharactersHeadingAndUrlZeroId" finished-at="2024-05-18T10:37:54 AEST" duration-ms="64" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdSpecialCharactersHeadingAndUrlZeroId -->
+        <test-method signature="testGetHeadingWithAnchorAndIdSpecialCharactersHeadingAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:54 AEST" name="testGetHeadingWithAnchorAndIdSpecialCharactersHeadingAndZeroId" finished-at="2024-05-18T10:37:54 AEST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdSpecialCharactersHeadingAndZeroId -->
+        <test-method signature="testGetHeadingWithAnchorAndIdSpecialCharactersText()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:54 AEST" name="testGetHeadingWithAnchorAndIdSpecialCharactersText" finished-at="2024-05-18T10:37:54 AEST" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdSpecialCharactersText -->
+        <test-method signature="testGetHeadingWithAnchorAndIdSpecialCharactersTextAndUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:54 AEST" name="testGetHeadingWithAnchorAndIdSpecialCharactersTextAndUrl" finished-at="2024-05-18T10:37:54 AEST" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdSpecialCharactersTextAndUrl -->
+        <test-method signature="testGetHeadingWithAnchorAndIdSpecialCharactersTextAndUrlAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:54 AEST" name="testGetHeadingWithAnchorAndIdSpecialCharactersTextAndUrlAndZeroId" finished-at="2024-05-18T10:37:54 AEST" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdSpecialCharactersTextAndUrlAndZeroId -->
+        <test-method signature="testGetHeadingWithAnchorAndIdSpecialCharactersTextAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:54 AEST" name="testGetHeadingWithAnchorAndIdSpecialCharactersTextAndZeroId" finished-at="2024-05-18T10:37:54 AEST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdSpecialCharactersTextAndZeroId -->
+        <test-method signature="testGetHeadingWithAnchorAndIdSpecialCharactersUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:54 AEST" name="testGetHeadingWithAnchorAndIdSpecialCharactersUrl" finished-at="2024-05-18T10:37:54 AEST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdSpecialCharactersUrl -->
+        <test-method signature="testGetHeadingWithAnchorAndIdSpecialCharactersUrlAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:54 AEST" name="testGetHeadingWithAnchorAndIdSpecialCharactersUrlAndZeroId" finished-at="2024-05-18T10:37:54 AEST" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdSpecialCharactersUrlAndZeroId -->
+        <test-method signature="testGetHeadingWithAnchorAndIdZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:54 AEST" name="testGetHeadingWithAnchorAndIdZeroId" finished-at="2024-05-18T10:37:54 AEST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorAndIdZeroId -->
+        <test-method signature="testGetHeadingWithAnchorEmptyAnchorText()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:54 AEST" name="testGetHeadingWithAnchorEmptyAnchorText" finished-at="2024-05-18T10:37:54 AEST" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorEmptyAnchorText -->
+        <test-method signature="testGetHeadingWithAnchorEmptyAnchorUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:54 AEST" name="testGetHeadingWithAnchorEmptyAnchorUrl" finished-at="2024-05-18T10:37:54 AEST" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorEmptyAnchorUrl -->
+        <test-method signature="testGetHeadingWithAnchorEmptyHeading()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:54 AEST" name="testGetHeadingWithAnchorEmptyHeading" finished-at="2024-05-18T10:37:54 AEST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorEmptyHeading -->
+        <test-method signature="testGetHeadingWithAnchorEmptyHeadingAndAnchorText()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:54 AEST" name="testGetHeadingWithAnchorEmptyHeadingAndAnchorText" finished-at="2024-05-18T10:37:54 AEST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorEmptyHeadingAndAnchorText -->
+        <test-method signature="testGetHeadingWithAnchorEmptyHeadingAndAnchorTextAndAnchorUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:54 AEST" name="testGetHeadingWithAnchorEmptyHeadingAndAnchorTextAndAnchorUrl" finished-at="2024-05-18T10:37:54 AEST" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorEmptyHeadingAndAnchorTextAndAnchorUrl -->
+        <test-method signature="testGetHeadingWithAnchorLongAnchorText()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:54 AEST" name="testGetHeadingWithAnchorLongAnchorText" finished-at="2024-05-18T10:37:55 AEST" duration-ms="205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorLongAnchorText -->
+        <test-method signature="testGetHeadingWithAnchorLongAnchorUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:55 AEST" name="testGetHeadingWithAnchorLongAnchorUrl" finished-at="2024-05-18T10:37:55 AEST" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorLongAnchorUrl -->
+        <test-method signature="testGetHeadingWithAnchorLongHeading()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:55 AEST" name="testGetHeadingWithAnchorLongHeading" finished-at="2024-05-18T10:37:55 AEST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorLongHeading -->
+        <test-method signature="testGetHeadingWithAnchorLongHeadingAndAnchorText()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:55 AEST" name="testGetHeadingWithAnchorLongHeadingAndAnchorText" finished-at="2024-05-18T10:37:55 AEST" duration-ms="71" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorLongHeadingAndAnchorText -->
+        <test-method signature="testGetHeadingWithAnchorLongHeadingAndAnchorTextAndAnchorUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:55 AEST" name="testGetHeadingWithAnchorLongHeadingAndAnchorTextAndAnchorUrl" finished-at="2024-05-18T10:37:55 AEST" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorLongHeadingAndAnchorTextAndAnchorUrl -->
+        <test-method signature="testGetHeadingWithAnchorNullAnchorText()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:55 AEST" name="testGetHeadingWithAnchorNullAnchorText" finished-at="2024-05-18T10:37:55 AEST" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorNullAnchorText -->
+        <test-method signature="testGetHeadingWithAnchorNullAnchorUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:55 AEST" name="testGetHeadingWithAnchorNullAnchorUrl" finished-at="2024-05-18T10:37:55 AEST" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorNullAnchorUrl -->
+        <test-method signature="testGetHeadingWithAnchorNullHeading()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:55 AEST" name="testGetHeadingWithAnchorNullHeading" finished-at="2024-05-18T10:37:55 AEST" duration-ms="69" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorNullHeading -->
+        <test-method signature="testGetHeadingWithAnchorNullHeadingAndAnchorText()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:55 AEST" name="testGetHeadingWithAnchorNullHeadingAndAnchorText" finished-at="2024-05-18T10:37:55 AEST" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorNullHeadingAndAnchorText -->
+        <test-method signature="testGetHeadingWithAnchorNullHeadingAndAnchorTextAndAnchorUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:55 AEST" name="testGetHeadingWithAnchorNullHeadingAndAnchorTextAndAnchorUrl" finished-at="2024-05-18T10:37:55 AEST" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorNullHeadingAndAnchorTextAndAnchorUrl -->
+        <test-method signature="testGetHeadingWithAnchorSpecialCharactersAnchorText()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:55 AEST" name="testGetHeadingWithAnchorSpecialCharactersAnchorText" finished-at="2024-05-18T10:37:55 AEST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorSpecialCharactersAnchorText -->
+        <test-method signature="testGetHeadingWithAnchorSpecialCharactersAnchorUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:55 AEST" name="testGetHeadingWithAnchorSpecialCharactersAnchorUrl" finished-at="2024-05-18T10:37:55 AEST" duration-ms="115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorSpecialCharactersAnchorUrl -->
+        <test-method signature="testGetHeadingWithAnchorSpecialCharactersHeading()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:55 AEST" name="testGetHeadingWithAnchorSpecialCharactersHeading" finished-at="2024-05-18T10:37:56 AEST" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorSpecialCharactersHeading -->
+        <test-method signature="testGetHeadingWithAnchorSpecialCharactersHeadingAndAnchorText()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:56 AEST" name="testGetHeadingWithAnchorSpecialCharactersHeadingAndAnchorText" finished-at="2024-05-18T10:37:56 AEST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorSpecialCharactersHeadingAndAnchorText -->
+        <test-method signature="testGetHeadingWithAnchorSpecialCharactersHeadingAndAnchorTextAndAnchorUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:56 AEST" name="testGetHeadingWithAnchorSpecialCharactersHeadingAndAnchorTextAndAnchorUrl" finished-at="2024-05-18T10:37:56 AEST" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithAnchorSpecialCharactersHeadingAndAnchorTextAndAnchorUrl -->
+        <test-method signature="testGetHeadingWithParagraphAndIdEmptyHeading()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:56 AEST" name="testGetHeadingWithParagraphAndIdEmptyHeading" finished-at="2024-05-18T10:37:56 AEST" duration-ms="69" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithParagraphAndIdEmptyHeading -->
+        <test-method signature="testGetHeadingWithParagraphAndIdEmptyHeadingAndParagraph()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:56 AEST" name="testGetHeadingWithParagraphAndIdEmptyHeadingAndParagraph" finished-at="2024-05-18T10:37:56 AEST" duration-ms="66" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithParagraphAndIdEmptyHeadingAndParagraph -->
+        <test-method signature="testGetHeadingWithParagraphAndIdEmptyParagraph()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:56 AEST" name="testGetHeadingWithParagraphAndIdEmptyParagraph" finished-at="2024-05-18T10:37:56 AEST" duration-ms="64" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithParagraphAndIdEmptyParagraph -->
+        <test-method signature="testGetHeadingWithParagraphAndIdLongHeading()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:56 AEST" name="testGetHeadingWithParagraphAndIdLongHeading" finished-at="2024-05-18T10:37:56 AEST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithParagraphAndIdLongHeading -->
+        <test-method signature="testGetHeadingWithParagraphAndIdLongHeadingEmptyParagraph()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:56 AEST" name="testGetHeadingWithParagraphAndIdLongHeadingEmptyParagraph" finished-at="2024-05-18T10:37:56 AEST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithParagraphAndIdLongHeadingEmptyParagraph -->
+        <test-method signature="testGetHeadingWithParagraphAndIdLongHeadingNullParagraph()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:56 AEST" name="testGetHeadingWithParagraphAndIdLongHeadingNullParagraph" finished-at="2024-05-18T10:37:56 AEST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithParagraphAndIdLongHeadingNullParagraph -->
+        <test-method signature="testGetHeadingWithParagraphAndIdNullHeading()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:56 AEST" name="testGetHeadingWithParagraphAndIdNullHeading" finished-at="2024-05-18T10:37:56 AEST" duration-ms="64" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithParagraphAndIdNullHeading -->
+        <test-method signature="testGetHeadingWithParagraphAndIdNullHeadingAndParagraph()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:56 AEST" name="testGetHeadingWithParagraphAndIdNullHeadingAndParagraph" finished-at="2024-05-18T10:37:56 AEST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithParagraphAndIdNullHeadingAndParagraph -->
+        <test-method signature="testGetHeadingWithParagraphAndIdNullId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:56 AEST" name="testGetHeadingWithParagraphAndIdNullId" finished-at="2024-05-18T10:37:56 AEST" duration-ms="111" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[1 expectation failed.
+JSON path content doesn't match.
+Expected: <html><head><title>Heading with Paragraph and Id</title></head><body><h1>Riley Boehm</h1><p></p><p>Id: </p></body></html>
+  Actual: null
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: 1 expectation failed.
+JSON path content doesn't match.
+Expected: <html><head><title>Heading with Paragraph and Id</title></head><body><h1>Riley Boehm</h1><p></p><p>Id: </p></body></html>
+  Actual: null
+
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.codehaus.groovy.reflection.CachedConstructor.invoke(CachedConstructor.java:73)
+at org.codehaus.groovy.runtime.callsite.ConstructorSite$ConstructorSiteNoUnwrapNoCoerce.callConstructor(ConstructorSite.java:108)
+at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCallConstructor(CallSiteArray.java:57)
+at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:263)
+at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:277)
+at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure.validate(ResponseSpecificationImpl.groovy:512)
+at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure$validate$1.call(Unknown Source)
+at io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:696)
+at io.restassured.internal.ResponseSpecificationImpl.this$2$validateResponseIfRequired(ResponseSpecificationImpl.groovy)
+at jdk.internal.reflect.GeneratedMethodAccessor118.invoke(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite.doInvoke(PlainObjectMetaMethodSite.java:43)
+at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite$PogoCachedMethodSiteNoUnwrapNoCoerce.invoke(PogoMetaMethodSite.java:198)
+at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.callCurrent(PogoMetaMethodSite.java:62)
+at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:185)
+at io.restassured.internal.ResponseSpecificationImpl.body(ResponseSpecificationImpl.groovy:270)
+at io.restassured.specification.ResponseSpecification$body$0.callCurrent(Unknown Source)
+at io.restassured.internal.ResponseSpecificationImpl.body(ResponseSpecificationImpl.groovy:117)
+at io.restassured.internal.ValidatableResponseOptionsImpl.body(ValidatableResponseOptionsImpl.java:244)
+at com.sdetadda.allure.RestAssuredTestCases.testGetHeadingWithParagraphAndIdNullId(RestAssuredTestCases.java:1873)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:228)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:961)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:201)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:819)
+at org.testng.TestRunner.run(TestRunner.java:619)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithParagraphAndIdNullId -->
+        <test-method signature="testGetHeadingWithParagraphAndIdNullParagraph()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:56 AEST" name="testGetHeadingWithParagraphAndIdNullParagraph" finished-at="2024-05-18T10:37:56 AEST" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithParagraphAndIdNullParagraph -->
+        <test-method signature="testGetHeadingWithParagraphAndIdSpecialCharactersHeadingAndParagraphParameter()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:56 AEST" name="testGetHeadingWithParagraphAndIdSpecialCharactersHeadingAndParagraphParameter" finished-at="2024-05-18T10:37:56 AEST" duration-ms="79" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithParagraphAndIdSpecialCharactersHeadingAndParagraphParameter -->
+        <test-method signature="testGetHeadingWithParagraphAndIdSpecialCharactersHeadingParameter()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:57 AEST" name="testGetHeadingWithParagraphAndIdSpecialCharactersHeadingParameter" finished-at="2024-05-18T10:37:57 AEST" duration-ms="81" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithParagraphAndIdSpecialCharactersHeadingParameter -->
+        <test-method signature="testGetHeadingWithParagraphAndIdSpecialCharactersParagraphParameter()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:57 AEST" name="testGetHeadingWithParagraphAndIdSpecialCharactersParagraphParameter" finished-at="2024-05-18T10:37:57 AEST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithParagraphAndIdSpecialCharactersParagraphParameter -->
+        <test-method signature="testGetHeadingWithParagraphAndIdZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:57 AEST" name="testGetHeadingWithParagraphAndIdZeroId" finished-at="2024-05-18T10:37:57 AEST" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithParagraphAndIdZeroId -->
+        <test-method signature="testGetHeadingWithParagraphAndIdZeroIdEmptyHeading()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:57 AEST" name="testGetHeadingWithParagraphAndIdZeroIdEmptyHeading" finished-at="2024-05-18T10:37:57 AEST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithParagraphAndIdZeroIdEmptyHeading -->
+        <test-method signature="testGetHeadingWithParagraphAndIdZeroIdEmptyParagraph()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:57 AEST" name="testGetHeadingWithParagraphAndIdZeroIdEmptyParagraph" finished-at="2024-05-18T10:37:57 AEST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithParagraphAndIdZeroIdEmptyParagraph -->
+        <test-method signature="testGetHeadingWithParagraphAndIdZeroIdNullHeading()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:57 AEST" name="testGetHeadingWithParagraphAndIdZeroIdNullHeading" finished-at="2024-05-18T10:37:57 AEST" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithParagraphAndIdZeroIdNullHeading -->
+        <test-method signature="testGetHeadingWithParagraphAndIdZeroIdNullParagraph()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:57 AEST" name="testGetHeadingWithParagraphAndIdZeroIdNullParagraph" finished-at="2024-05-18T10:37:57 AEST" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithParagraphAndIdZeroIdNullParagraph -->
+        <test-method signature="testGetHeadingWithParagraphWithEmptyHeadingNullParagraphParameters()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:57 AEST" name="testGetHeadingWithParagraphWithEmptyHeadingNullParagraphParameters" finished-at="2024-05-18T10:37:57 AEST" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithParagraphWithEmptyHeadingNullParagraphParameters -->
+        <test-method signature="testGetHeadingWithParagraphWithInvalidHeadingAndParagraphParameters()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:57 AEST" name="testGetHeadingWithParagraphWithInvalidHeadingAndParagraphParameters" finished-at="2024-05-18T10:37:57 AEST" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithParagraphWithInvalidHeadingAndParagraphParameters -->
+        <test-method signature="testGetHeadingWithParagraphWithInvalidHeadingParameters()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:57 AEST" name="testGetHeadingWithParagraphWithInvalidHeadingParameters" finished-at="2024-05-18T10:37:57 AEST" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithParagraphWithInvalidHeadingParameters -->
+        <test-method signature="testGetHeadingWithParagraphWithInvalidParagraphParameters()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:57 AEST" name="testGetHeadingWithParagraphWithInvalidParagraphParameters" finished-at="2024-05-18T10:37:57 AEST" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithParagraphWithInvalidParagraphParameters -->
+        <test-method signature="testGetHeadingWithParagraphWithLongHeadingAndParagraphParameters()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:57 AEST" name="testGetHeadingWithParagraphWithLongHeadingAndParagraphParameters" finished-at="2024-05-18T10:37:57 AEST" duration-ms="97" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithParagraphWithLongHeadingAndParagraphParameters -->
+        <test-method signature="testGetHeadingWithParagraphWithLongHeadingNullParagraphParameters()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:57 AEST" name="testGetHeadingWithParagraphWithLongHeadingNullParagraphParameters" finished-at="2024-05-18T10:37:57 AEST" duration-ms="110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithParagraphWithLongHeadingNullParagraphParameters -->
+        <test-method signature="testGetHeadingWithParagraphWithLongHeadingParameters()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:57 AEST" name="testGetHeadingWithParagraphWithLongHeadingParameters" finished-at="2024-05-18T10:37:57 AEST" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithParagraphWithLongHeadingParameters -->
+        <test-method signature="testGetHeadingWithParagraphWithMissingParameters()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:58 AEST" name="testGetHeadingWithParagraphWithMissingParameters" finished-at="2024-05-18T10:37:58 AEST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithParagraphWithMissingParameters -->
+        <test-method signature="testGetHeadingWithParagraphWithNullHeadingEmptyParagraphParameters()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:58 AEST" name="testGetHeadingWithParagraphWithNullHeadingEmptyParagraphParameters" finished-at="2024-05-18T10:37:58 AEST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithParagraphWithNullHeadingEmptyParagraphParameters -->
+        <test-method signature="testGetHeadingWithParagraphWithNullHeadingParameters()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:58 AEST" name="testGetHeadingWithParagraphWithNullHeadingParameters" finished-at="2024-05-18T10:37:58 AEST" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithParagraphWithNullHeadingParameters -->
+        <test-method signature="testGetHeadingWithParagraphWithNullParagraphParameters()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:58 AEST" name="testGetHeadingWithParagraphWithNullParagraphParameters" finished-at="2024-05-18T10:37:58 AEST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithParagraphWithNullParagraphParameters -->
+        <test-method signature="testGetHeadingWithParagraphWithNullParameters()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:58 AEST" name="testGetHeadingWithParagraphWithNullParameters" finished-at="2024-05-18T10:37:58 AEST" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithParagraphWithNullParameters -->
+        <test-method signature="testGetHeadingWithParagraphsWithSpecialCharactersHeadingAndParagraphParameter()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:58 AEST" name="testGetHeadingWithParagraphsWithSpecialCharactersHeadingAndParagraphParameter" finished-at="2024-05-18T10:37:58 AEST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithParagraphsWithSpecialCharactersHeadingAndParagraphParameter -->
+        <test-method signature="testGetHeadingWithParagraphsWithSpecialCharactersHeadingParameter()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:58 AEST" name="testGetHeadingWithParagraphsWithSpecialCharactersHeadingParameter" finished-at="2024-05-18T10:37:58 AEST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithParagraphsWithSpecialCharactersHeadingParameter -->
+        <test-method signature="testGetHeadingWithParagraphsWithSpecialCharactersParagraphParameter()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:58 AEST" name="testGetHeadingWithParagraphsWithSpecialCharactersParagraphParameter" finished-at="2024-05-18T10:37:58 AEST" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetHeadingWithParagraphsWithSpecialCharactersParagraphParameter -->
+        <test-method signature="test_01()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:58 AEST" name="test_01" finished-at="2024-05-18T10:37:58 AEST" duration-ms="409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_01 -->
+        <test-method signature="test_02()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:58 AEST" name="test_02" finished-at="2024-05-18T10:37:59 AEST" duration-ms="573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_02 -->
+        <test-method signature="test_03()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:59 AEST" name="test_03" finished-at="2024-05-18T10:37:59 AEST" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_03 -->
+        <test-method signature="test_04()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:59 AEST" name="test_04" finished-at="2024-05-18T10:37:59 AEST" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_04 -->
+        <test-method signature="test_05()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:59 AEST" name="test_05" finished-at="2024-05-18T10:37:59 AEST" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_05 -->
+        <test-method signature="test_06()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:59 AEST" name="test_06" finished-at="2024-05-18T10:37:59 AEST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_06 -->
+        <test-method signature="test_07()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:59 AEST" name="test_07" finished-at="2024-05-18T10:37:59 AEST" duration-ms="65" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_07 -->
+        <test-method signature="test_08()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:59 AEST" name="test_08" finished-at="2024-05-18T10:37:59 AEST" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_08 -->
+        <test-method signature="test_09()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:37:59 AEST" name="test_09" finished-at="2024-05-18T10:38:00 AEST" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_09 -->
+        <test-method signature="test_10()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:00 AEST" name="test_10" finished-at="2024-05-18T10:38:00 AEST" duration-ms="158" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[1 expectation failed.
+JSON path content doesn't match.
+Expected: <html><head id=\"head\" class=\"header-content\"><title>Title</title><link rel=\"stylesheet\" href=\"/css/main.css\"></head><body><input type=\"email\" id=\"email\" name=\"email\" placeholder=\"Enter your email\" value=\"\" required><input type=\"password\" id=\"password\" name=\"password\" placeholder=\"Enter your password\" value=\"password123\" required></body></html>
+  Actual: <html><head id=\"head\" class=\"header-content\"><title>Title</title><link rel=\"stylesheet\" href=\"/css/main.css\"></head><body><input type=\"email\" id=\"email\" name=\"email\" placeholder=\"Enter your email\" value=\"\" required><input type=\"password\" id=\"password\" name=\"password\" placeholder=\"Enter your password\" value=\"password123\" required><button>Login</button></body></html>
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: 1 expectation failed.
+JSON path content doesn't match.
+Expected: <html><head id=\"head\" class=\"header-content\"><title>Title</title><link rel=\"stylesheet\" href=\"/css/main.css\"></head><body><input type=\"email\" id=\"email\" name=\"email\" placeholder=\"Enter your email\" value=\"\" required><input type=\"password\" id=\"password\" name=\"password\" placeholder=\"Enter your password\" value=\"password123\" required></body></html>
+  Actual: <html><head id=\"head\" class=\"header-content\"><title>Title</title><link rel=\"stylesheet\" href=\"/css/main.css\"></head><body><input type=\"email\" id=\"email\" name=\"email\" placeholder=\"Enter your email\" value=\"\" required><input type=\"password\" id=\"password\" name=\"password\" placeholder=\"Enter your password\" value=\"password123\" required><button>Login</button></body></html>
+
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.codehaus.groovy.reflection.CachedConstructor.invoke(CachedConstructor.java:73)
+at org.codehaus.groovy.runtime.callsite.ConstructorSite$ConstructorSiteNoUnwrapNoCoerce.callConstructor(ConstructorSite.java:108)
+at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:277)
+at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure.validate(ResponseSpecificationImpl.groovy:512)
+at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure$validate$1.call(Unknown Source)
+at io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:696)
+at io.restassured.internal.ResponseSpecificationImpl.this$2$validateResponseIfRequired(ResponseSpecificationImpl.groovy)
+at jdk.internal.reflect.GeneratedMethodAccessor118.invoke(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite.doInvoke(PlainObjectMetaMethodSite.java:43)
+at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite$PogoCachedMethodSiteNoUnwrapNoCoerce.invoke(PogoMetaMethodSite.java:198)
+at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.callCurrent(PogoMetaMethodSite.java:62)
+at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:185)
+at io.restassured.internal.ResponseSpecificationImpl.body(ResponseSpecificationImpl.groovy:270)
+at io.restassured.specification.ResponseSpecification$body$0.callCurrent(Unknown Source)
+at io.restassured.internal.ResponseSpecificationImpl.body(ResponseSpecificationImpl.groovy:117)
+at io.restassured.internal.ValidatableResponseOptionsImpl.body(ValidatableResponseOptionsImpl.java:244)
+at com.sdetadda.allure.RestAssuredTestCases.test_10(RestAssuredTestCases.java:92)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:228)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:961)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:201)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:819)
+at org.testng.TestRunner.run(TestRunner.java:619)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_10 -->
+        <test-method signature="test_100()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:00 AEST" name="test_100" finished-at="2024-05-18T10:38:00 AEST" duration-ms="85" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_100 -->
+        <test-method signature="test_101()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:00 AEST" name="test_101" finished-at="2024-05-18T10:38:00 AEST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_101 -->
+        <test-method signature="test_102()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:00 AEST" name="test_102" finished-at="2024-05-18T10:38:00 AEST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_102 -->
+        <test-method signature="test_103()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:00 AEST" name="test_103" finished-at="2024-05-18T10:38:00 AEST" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_103 -->
+        <test-method signature="test_104()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:00 AEST" name="test_104" finished-at="2024-05-18T10:38:00 AEST" duration-ms="91" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_104 -->
+        <test-method signature="test_105()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:00 AEST" name="test_105" finished-at="2024-05-18T10:38:00 AEST" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_105 -->
+        <test-method signature="test_106()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:00 AEST" name="test_106" finished-at="2024-05-18T10:38:00 AEST" duration-ms="140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_106 -->
+        <test-method signature="test_107()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:00 AEST" name="test_107" finished-at="2024-05-18T10:38:01 AEST" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_107 -->
+        <test-method signature="test_108()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:01 AEST" name="test_108" finished-at="2024-05-18T10:38:01 AEST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_108 -->
+        <test-method signature="test_109()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:01 AEST" name="test_109" finished-at="2024-05-18T10:38:01 AEST" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_109 -->
+        <test-method signature="test_11()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:01 AEST" name="test_11" finished-at="2024-05-18T10:38:01 AEST" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_11 -->
+        <test-method signature="test_110()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:01 AEST" name="test_110" finished-at="2024-05-18T10:38:01 AEST" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_110 -->
+        <test-method signature="test_111()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:01 AEST" name="test_111" finished-at="2024-05-18T10:38:01 AEST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_111 -->
+        <test-method signature="test_112()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:01 AEST" name="test_112" finished-at="2024-05-18T10:38:01 AEST" duration-ms="65" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_112 -->
+        <test-method signature="test_113()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:01 AEST" name="test_113" finished-at="2024-05-18T10:38:01 AEST" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_113 -->
+        <test-method signature="test_114()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:01 AEST" name="test_114" finished-at="2024-05-18T10:38:01 AEST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_114 -->
+        <test-method signature="test_115()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:01 AEST" name="test_115" finished-at="2024-05-18T10:38:01 AEST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_115 -->
+        <test-method signature="test_116()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:01 AEST" name="test_116" finished-at="2024-05-18T10:38:01 AEST" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_116 -->
+        <test-method signature="test_117()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:01 AEST" name="test_117" finished-at="2024-05-18T10:38:01 AEST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_117 -->
+        <test-method signature="test_118()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:01 AEST" name="test_118" finished-at="2024-05-18T10:38:01 AEST" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_118 -->
+        <test-method signature="test_119()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:01 AEST" name="test_119" finished-at="2024-05-18T10:38:01 AEST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_119 -->
+        <test-method signature="test_12()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:01 AEST" name="test_12" finished-at="2024-05-18T10:38:01 AEST" duration-ms="65" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_12 -->
+        <test-method signature="test_120()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:01 AEST" name="test_120" finished-at="2024-05-18T10:38:02 AEST" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_120 -->
+        <test-method signature="test_121()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:02 AEST" name="test_121" finished-at="2024-05-18T10:38:02 AEST" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_121 -->
+        <test-method signature="test_122()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:02 AEST" name="test_122" finished-at="2024-05-18T10:38:02 AEST" duration-ms="105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_122 -->
+        <test-method signature="test_123()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:02 AEST" name="test_123" finished-at="2024-05-18T10:38:02 AEST" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_123 -->
+        <test-method signature="test_124()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:02 AEST" name="test_124" finished-at="2024-05-18T10:38:02 AEST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_124 -->
+        <test-method signature="test_125()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:02 AEST" name="test_125" finished-at="2024-05-18T10:38:02 AEST" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_125 -->
+        <test-method signature="test_126()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:02 AEST" name="test_126" finished-at="2024-05-18T10:38:02 AEST" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_126 -->
+        <test-method signature="test_127()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:02 AEST" name="test_127" finished-at="2024-05-18T10:38:02 AEST" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_127 -->
+        <test-method signature="test_128()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:02 AEST" name="test_128" finished-at="2024-05-18T10:38:02 AEST" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_128 -->
+        <test-method signature="test_129()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:02 AEST" name="test_129" finished-at="2024-05-18T10:38:02 AEST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_129 -->
+        <test-method signature="test_13()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:02 AEST" name="test_13" finished-at="2024-05-18T10:38:02 AEST" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_13 -->
+        <test-method signature="test_130()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:02 AEST" name="test_130" finished-at="2024-05-18T10:38:02 AEST" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_130 -->
+        <test-method signature="test_131()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:02 AEST" name="test_131" finished-at="2024-05-18T10:38:02 AEST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_131 -->
+        <test-method signature="test_132()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:02 AEST" name="test_132" finished-at="2024-05-18T10:38:02 AEST" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_132 -->
+        <test-method signature="test_133()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:02 AEST" name="test_133" finished-at="2024-05-18T10:38:02 AEST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_133 -->
+        <test-method signature="test_134()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:02 AEST" name="test_134" finished-at="2024-05-18T10:38:03 AEST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_134 -->
+        <test-method signature="test_135()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:03 AEST" name="test_135" finished-at="2024-05-18T10:38:03 AEST" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_135 -->
+        <test-method signature="test_136()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:03 AEST" name="test_136" finished-at="2024-05-18T10:38:03 AEST" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_136 -->
+        <test-method signature="test_137()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:03 AEST" name="test_137" finished-at="2024-05-18T10:38:03 AEST" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_137 -->
+        <test-method signature="test_138()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:03 AEST" name="test_138" finished-at="2024-05-18T10:38:03 AEST" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_138 -->
+        <test-method signature="test_139()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:03 AEST" name="test_139" finished-at="2024-05-18T10:38:03 AEST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_139 -->
+        <test-method signature="test_14()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:03 AEST" name="test_14" finished-at="2024-05-18T10:38:03 AEST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_14 -->
+        <test-method signature="test_140()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:03 AEST" name="test_140" finished-at="2024-05-18T10:38:03 AEST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_140 -->
+        <test-method signature="test_141()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:03 AEST" name="test_141" finished-at="2024-05-18T10:38:03 AEST" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_141 -->
+        <test-method signature="test_142()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:03 AEST" name="test_142" finished-at="2024-05-18T10:38:03 AEST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_142 -->
+        <test-method signature="test_143()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:03 AEST" name="test_143" finished-at="2024-05-18T10:38:03 AEST" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_143 -->
+        <test-method signature="test_144()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:03 AEST" name="test_144" finished-at="2024-05-18T10:38:03 AEST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_144 -->
+        <test-method signature="test_145()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:03 AEST" name="test_145" finished-at="2024-05-18T10:38:03 AEST" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_145 -->
+        <test-method signature="test_146()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:03 AEST" name="test_146" finished-at="2024-05-18T10:38:03 AEST" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_146 -->
+        <test-method signature="test_147()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:03 AEST" name="test_147" finished-at="2024-05-18T10:38:03 AEST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_147 -->
+        <test-method signature="test_148()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:03 AEST" name="test_148" finished-at="2024-05-18T10:38:03 AEST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_148 -->
+        <test-method signature="test_149()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:03 AEST" name="test_149" finished-at="2024-05-18T10:38:03 AEST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_149 -->
+        <test-method signature="test_15()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:03 AEST" name="test_15" finished-at="2024-05-18T10:38:03 AEST" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_15 -->
+        <test-method signature="test_150()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:03 AEST" name="test_150" finished-at="2024-05-18T10:38:03 AEST" duration-ms="130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_150 -->
+        <test-method signature="test_151()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:03 AEST" name="test_151" finished-at="2024-05-18T10:38:04 AEST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_151 -->
+        <test-method signature="test_152()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:04 AEST" name="test_152" finished-at="2024-05-18T10:38:04 AEST" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_152 -->
+        <test-method signature="test_153()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:04 AEST" name="test_153" finished-at="2024-05-18T10:38:04 AEST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_153 -->
+        <test-method signature="test_154()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:04 AEST" name="test_154" finished-at="2024-05-18T10:38:04 AEST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_154 -->
+        <test-method signature="test_155()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:04 AEST" name="test_155" finished-at="2024-05-18T10:38:04 AEST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_155 -->
+        <test-method signature="test_156()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:04 AEST" name="test_156" finished-at="2024-05-18T10:38:04 AEST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_156 -->
+        <test-method signature="test_157()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:04 AEST" name="test_157" finished-at="2024-05-18T10:38:04 AEST" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_157 -->
+        <test-method signature="test_158()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:04 AEST" name="test_158" finished-at="2024-05-18T10:38:04 AEST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_158 -->
+        <test-method signature="test_159()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:04 AEST" name="test_159" finished-at="2024-05-18T10:38:04 AEST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_159 -->
+        <test-method signature="test_16()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:04 AEST" name="test_16" finished-at="2024-05-18T10:38:04 AEST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_16 -->
+        <test-method signature="test_160()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:04 AEST" name="test_160" finished-at="2024-05-18T10:38:04 AEST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_160 -->
+        <test-method signature="test_161()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:04 AEST" name="test_161" finished-at="2024-05-18T10:38:04 AEST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_161 -->
+        <test-method signature="test_162()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:04 AEST" name="test_162" finished-at="2024-05-18T10:38:04 AEST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_162 -->
+        <test-method signature="test_163()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:04 AEST" name="test_163" finished-at="2024-05-18T10:38:04 AEST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_163 -->
+        <test-method signature="test_164()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:04 AEST" name="test_164" finished-at="2024-05-18T10:38:04 AEST" duration-ms="97" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_164 -->
+        <test-method signature="test_165()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:04 AEST" name="test_165" finished-at="2024-05-18T10:38:04 AEST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_165 -->
+        <test-method signature="test_166()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:04 AEST" name="test_166" finished-at="2024-05-18T10:38:04 AEST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_166 -->
+        <test-method signature="test_167()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:04 AEST" name="test_167" finished-at="2024-05-18T10:38:04 AEST" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_167 -->
+        <test-method signature="test_168()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:04 AEST" name="test_168" finished-at="2024-05-18T10:38:04 AEST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_168 -->
+        <test-method signature="test_169()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:04 AEST" name="test_169" finished-at="2024-05-18T10:38:04 AEST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_169 -->
+        <test-method signature="test_17()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:04 AEST" name="test_17" finished-at="2024-05-18T10:38:04 AEST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_17 -->
+        <test-method signature="test_170()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:04 AEST" name="test_170" finished-at="2024-05-18T10:38:05 AEST" duration-ms="58" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_170 -->
+        <test-method signature="test_171()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:05 AEST" name="test_171" finished-at="2024-05-18T10:38:05 AEST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_171 -->
+        <test-method signature="test_172()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:05 AEST" name="test_172" finished-at="2024-05-18T10:38:05 AEST" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_172 -->
+        <test-method signature="test_173()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:05 AEST" name="test_173" finished-at="2024-05-18T10:38:05 AEST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_173 -->
+        <test-method signature="test_174()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:05 AEST" name="test_174" finished-at="2024-05-18T10:38:05 AEST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_174 -->
+        <test-method signature="test_175()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:05 AEST" name="test_175" finished-at="2024-05-18T10:38:05 AEST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_175 -->
+        <test-method signature="test_176()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:05 AEST" name="test_176" finished-at="2024-05-18T10:38:05 AEST" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_176 -->
+        <test-method signature="test_177()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:05 AEST" name="test_177" finished-at="2024-05-18T10:38:05 AEST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_177 -->
+        <test-method signature="test_178()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:05 AEST" name="test_178" finished-at="2024-05-18T10:38:05 AEST" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_178 -->
+        <test-method signature="test_179()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:05 AEST" name="test_179" finished-at="2024-05-18T10:38:05 AEST" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_179 -->
+        <test-method signature="test_18()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:05 AEST" name="test_18" finished-at="2024-05-18T10:38:05 AEST" duration-ms="65" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_18 -->
+        <test-method signature="test_180()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:05 AEST" name="test_180" finished-at="2024-05-18T10:38:05 AEST" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_180 -->
+        <test-method signature="test_181()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:05 AEST" name="test_181" finished-at="2024-05-18T10:38:05 AEST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_181 -->
+        <test-method signature="test_182()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:05 AEST" name="test_182" finished-at="2024-05-18T10:38:05 AEST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_182 -->
+        <test-method signature="test_183()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:05 AEST" name="test_183" finished-at="2024-05-18T10:38:05 AEST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_183 -->
+        <test-method signature="test_184()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:05 AEST" name="test_184" finished-at="2024-05-18T10:38:05 AEST" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_184 -->
+        <test-method signature="test_185()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:05 AEST" name="test_185" finished-at="2024-05-18T10:38:05 AEST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_185 -->
+        <test-method signature="test_186()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:05 AEST" name="test_186" finished-at="2024-05-18T10:38:05 AEST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_186 -->
+        <test-method signature="test_187()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:05 AEST" name="test_187" finished-at="2024-05-18T10:38:06 AEST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_187 -->
+        <test-method signature="test_188()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:06 AEST" name="test_188" finished-at="2024-05-18T10:38:06 AEST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_188 -->
+        <test-method signature="test_189()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:06 AEST" name="test_189" finished-at="2024-05-18T10:38:06 AEST" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_189 -->
+        <test-method signature="test_19()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:06 AEST" name="test_19" finished-at="2024-05-18T10:38:06 AEST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_19 -->
+        <test-method signature="test_190()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:06 AEST" name="test_190" finished-at="2024-05-18T10:38:06 AEST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_190 -->
+        <test-method signature="test_191()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:06 AEST" name="test_191" finished-at="2024-05-18T10:38:06 AEST" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_191 -->
+        <test-method signature="test_192()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:06 AEST" name="test_192" finished-at="2024-05-18T10:38:06 AEST" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_192 -->
+        <test-method signature="test_193()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:06 AEST" name="test_193" finished-at="2024-05-18T10:38:06 AEST" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_193 -->
+        <test-method signature="test_194()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:06 AEST" name="test_194" finished-at="2024-05-18T10:38:06 AEST" duration-ms="65" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_194 -->
+        <test-method signature="test_195()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:06 AEST" name="test_195" finished-at="2024-05-18T10:38:06 AEST" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_195 -->
+        <test-method signature="test_196()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:06 AEST" name="test_196" finished-at="2024-05-18T10:38:06 AEST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_196 -->
+        <test-method signature="test_197()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:06 AEST" name="test_197" finished-at="2024-05-18T10:38:06 AEST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_197 -->
+        <test-method signature="test_198()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:06 AEST" name="test_198" finished-at="2024-05-18T10:38:06 AEST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_198 -->
+        <test-method signature="test_199()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:06 AEST" name="test_199" finished-at="2024-05-18T10:38:06 AEST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_199 -->
+        <test-method signature="test_20()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:06 AEST" name="test_20" finished-at="2024-05-18T10:38:06 AEST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_20 -->
+        <test-method signature="test_200()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:06 AEST" name="test_200" finished-at="2024-05-18T10:38:06 AEST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_200 -->
+        <test-method signature="test_21()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:06 AEST" name="test_21" finished-at="2024-05-18T10:38:06 AEST" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_21 -->
+        <test-method signature="test_22()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:06 AEST" name="test_22" finished-at="2024-05-18T10:38:06 AEST" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_22 -->
+        <test-method signature="test_23()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:06 AEST" name="test_23" finished-at="2024-05-18T10:38:07 AEST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_23 -->
+        <test-method signature="test_24()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:07 AEST" name="test_24" finished-at="2024-05-18T10:38:07 AEST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_24 -->
+        <test-method signature="test_25()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:07 AEST" name="test_25" finished-at="2024-05-18T10:38:07 AEST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_25 -->
+        <test-method signature="test_26()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:07 AEST" name="test_26" finished-at="2024-05-18T10:38:07 AEST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_26 -->
+        <test-method signature="test_27()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:07 AEST" name="test_27" finished-at="2024-05-18T10:38:07 AEST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_27 -->
+        <test-method signature="test_28()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:07 AEST" name="test_28" finished-at="2024-05-18T10:38:07 AEST" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_28 -->
+        <test-method signature="test_29()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:07 AEST" name="test_29" finished-at="2024-05-18T10:38:07 AEST" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_29 -->
+        <test-method signature="test_30()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:07 AEST" name="test_30" finished-at="2024-05-18T10:38:07 AEST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_30 -->
+        <test-method signature="test_31()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:07 AEST" name="test_31" finished-at="2024-05-18T10:38:07 AEST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_31 -->
+        <test-method signature="test_32()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:07 AEST" name="test_32" finished-at="2024-05-18T10:38:07 AEST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_32 -->
+        <test-method signature="test_33()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:07 AEST" name="test_33" finished-at="2024-05-18T10:38:07 AEST" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_33 -->
+        <test-method signature="test_34()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:07 AEST" name="test_34" finished-at="2024-05-18T10:38:07 AEST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_34 -->
+        <test-method signature="test_35()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:07 AEST" name="test_35" finished-at="2024-05-18T10:38:07 AEST" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_35 -->
+        <test-method signature="test_36()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:07 AEST" name="test_36" finished-at="2024-05-18T10:38:07 AEST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_36 -->
+        <test-method signature="test_37()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:07 AEST" name="test_37" finished-at="2024-05-18T10:38:07 AEST" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_37 -->
+        <test-method signature="test_38()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:07 AEST" name="test_38" finished-at="2024-05-18T10:38:07 AEST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_38 -->
+        <test-method signature="test_39()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:07 AEST" name="test_39" finished-at="2024-05-18T10:38:07 AEST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_39 -->
+        <test-method signature="test_40()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:07 AEST" name="test_40" finished-at="2024-05-18T10:38:08 AEST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_40 -->
+        <test-method signature="test_41()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:08 AEST" name="test_41" finished-at="2024-05-18T10:38:08 AEST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_41 -->
+        <test-method signature="test_42()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:08 AEST" name="test_42" finished-at="2024-05-18T10:38:08 AEST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_42 -->
+        <test-method signature="test_43()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:08 AEST" name="test_43" finished-at="2024-05-18T10:38:08 AEST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_43 -->
+        <test-method signature="test_44()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:08 AEST" name="test_44" finished-at="2024-05-18T10:38:08 AEST" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_44 -->
+        <test-method signature="test_45()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:08 AEST" name="test_45" finished-at="2024-05-18T10:38:08 AEST" duration-ms="90" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_45 -->
+        <test-method signature="test_46()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:08 AEST" name="test_46" finished-at="2024-05-18T10:38:08 AEST" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_46 -->
+        <test-method signature="test_47()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:08 AEST" name="test_47" finished-at="2024-05-18T10:38:08 AEST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_47 -->
+        <test-method signature="test_48()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:08 AEST" name="test_48" finished-at="2024-05-18T10:38:08 AEST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_48 -->
+        <test-method signature="test_49()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:08 AEST" name="test_49" finished-at="2024-05-18T10:38:08 AEST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_49 -->
+        <test-method signature="test_50()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:08 AEST" name="test_50" finished-at="2024-05-18T10:38:08 AEST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_50 -->
+        <test-method signature="test_51()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:08 AEST" name="test_51" finished-at="2024-05-18T10:38:08 AEST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_51 -->
+        <test-method signature="test_52()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:08 AEST" name="test_52" finished-at="2024-05-18T10:38:08 AEST" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_52 -->
+        <test-method signature="test_53()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:08 AEST" name="test_53" finished-at="2024-05-18T10:38:08 AEST" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_53 -->
+        <test-method signature="test_54()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:08 AEST" name="test_54" finished-at="2024-05-18T10:38:08 AEST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_54 -->
+        <test-method signature="test_55()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:08 AEST" name="test_55" finished-at="2024-05-18T10:38:08 AEST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_55 -->
+        <test-method signature="test_56()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:08 AEST" name="test_56" finished-at="2024-05-18T10:38:08 AEST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_56 -->
+        <test-method signature="test_57()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:08 AEST" name="test_57" finished-at="2024-05-18T10:38:08 AEST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_57 -->
+        <test-method signature="test_58()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:08 AEST" name="test_58" finished-at="2024-05-18T10:38:08 AEST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_58 -->
+        <test-method signature="test_59()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:08 AEST" name="test_59" finished-at="2024-05-18T10:38:08 AEST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_59 -->
+        <test-method signature="test_60()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:08 AEST" name="test_60" finished-at="2024-05-18T10:38:09 AEST" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_60 -->
+        <test-method signature="test_61()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:09 AEST" name="test_61" finished-at="2024-05-18T10:38:09 AEST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_61 -->
+        <test-method signature="test_62()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:09 AEST" name="test_62" finished-at="2024-05-18T10:38:09 AEST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_62 -->
+        <test-method signature="test_63()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:09 AEST" name="test_63" finished-at="2024-05-18T10:38:09 AEST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_63 -->
+        <test-method signature="test_64()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:09 AEST" name="test_64" finished-at="2024-05-18T10:38:09 AEST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_64 -->
+        <test-method signature="test_65()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:09 AEST" name="test_65" finished-at="2024-05-18T10:38:09 AEST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_65 -->
+        <test-method signature="test_66()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:09 AEST" name="test_66" finished-at="2024-05-18T10:38:09 AEST" duration-ms="67" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[1 expectation failed.
+JSON path content doesn't match.
+Expected: <article><h2>Edna O'Brien</h2><p>Neque et et expedita sed nihil. Dolor ea et quaerat officia suscipit a. Et nihil hic sed eos ut reprehenderit. Eos eum sunt assumenda eum dolor.</p><address><p>Written by Sherwood Mills</p><p>https://www.angelo-kulas.org/amet</p></address></article>
+  Actual: <article><h2>Edna O&#x27;Brien</h2><p>Neque et et expedita sed nihil. Dolor ea et quaerat officia suscipit a. Et nihil hic sed eos ut reprehenderit. Eos eum sunt assumenda eum dolor.</p><address><p>Written by Sherwood Mills</p><p>https://www.angelo-kulas.org/amet</p></address></article>
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: 1 expectation failed.
+JSON path content doesn't match.
+Expected: <article><h2>Edna O'Brien</h2><p>Neque et et expedita sed nihil. Dolor ea et quaerat officia suscipit a. Et nihil hic sed eos ut reprehenderit. Eos eum sunt assumenda eum dolor.</p><address><p>Written by Sherwood Mills</p><p>https://www.angelo-kulas.org/amet</p></address></article>
+  Actual: <article><h2>Edna O&#x27;Brien</h2><p>Neque et et expedita sed nihil. Dolor ea et quaerat officia suscipit a. Et nihil hic sed eos ut reprehenderit. Eos eum sunt assumenda eum dolor.</p><address><p>Written by Sherwood Mills</p><p>https://www.angelo-kulas.org/amet</p></address></article>
+
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.codehaus.groovy.reflection.CachedConstructor.invoke(CachedConstructor.java:73)
+at org.codehaus.groovy.runtime.callsite.ConstructorSite$ConstructorSiteNoUnwrapNoCoerce.callConstructor(ConstructorSite.java:108)
+at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:277)
+at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure.validate(ResponseSpecificationImpl.groovy:512)
+at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure$validate$1.call(Unknown Source)
+at io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:696)
+at io.restassured.internal.ResponseSpecificationImpl.this$2$validateResponseIfRequired(ResponseSpecificationImpl.groovy)
+at jdk.internal.reflect.GeneratedMethodAccessor118.invoke(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite.doInvoke(PlainObjectMetaMethodSite.java:43)
+at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite$PogoCachedMethodSiteNoUnwrapNoCoerce.invoke(PogoMetaMethodSite.java:198)
+at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.callCurrent(PogoMetaMethodSite.java:62)
+at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:185)
+at io.restassured.internal.ResponseSpecificationImpl.body(ResponseSpecificationImpl.groovy:270)
+at io.restassured.specification.ResponseSpecification$body$0.callCurrent(Unknown Source)
+at io.restassured.internal.ResponseSpecificationImpl.body(ResponseSpecificationImpl.groovy:117)
+at io.restassured.internal.ValidatableResponseOptionsImpl.body(ValidatableResponseOptionsImpl.java:244)
+at com.sdetadda.allure.RestAssuredTestCases.test_66(RestAssuredTestCases.java:610)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:228)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:961)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:201)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:819)
+at org.testng.TestRunner.run(TestRunner.java:619)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_66 -->
+        <test-method signature="test_67()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:09 AEST" name="test_67" finished-at="2024-05-18T10:38:09 AEST" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_67 -->
+        <test-method signature="test_68()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:09 AEST" name="test_68" finished-at="2024-05-18T10:38:09 AEST" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_68 -->
+        <test-method signature="test_69()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:09 AEST" name="test_69" finished-at="2024-05-18T10:38:09 AEST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_69 -->
+        <test-method signature="test_70()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:09 AEST" name="test_70" finished-at="2024-05-18T10:38:09 AEST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_70 -->
+        <test-method signature="test_71()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:09 AEST" name="test_71" finished-at="2024-05-18T10:38:09 AEST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_71 -->
+        <test-method signature="test_72()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:09 AEST" name="test_72" finished-at="2024-05-18T10:38:09 AEST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_72 -->
+        <test-method signature="test_73()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:09 AEST" name="test_73" finished-at="2024-05-18T10:38:09 AEST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_73 -->
+        <test-method signature="test_74()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:09 AEST" name="test_74" finished-at="2024-05-18T10:38:09 AEST" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_74 -->
+        <test-method signature="test_75()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:09 AEST" name="test_75" finished-at="2024-05-18T10:38:09 AEST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_75 -->
+        <test-method signature="test_76()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:09 AEST" name="test_76" finished-at="2024-05-18T10:38:09 AEST" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_76 -->
+        <test-method signature="test_77()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:09 AEST" name="test_77" finished-at="2024-05-18T10:38:09 AEST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_77 -->
+        <test-method signature="test_78()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:09 AEST" name="test_78" finished-at="2024-05-18T10:38:09 AEST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_78 -->
+        <test-method signature="test_79()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:09 AEST" name="test_79" finished-at="2024-05-18T10:38:09 AEST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_79 -->
+        <test-method signature="test_80()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:09 AEST" name="test_80" finished-at="2024-05-18T10:38:09 AEST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_80 -->
+        <test-method signature="test_81()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:09 AEST" name="test_81" finished-at="2024-05-18T10:38:09 AEST" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_81 -->
+        <test-method signature="test_82()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:09 AEST" name="test_82" finished-at="2024-05-18T10:38:10 AEST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_82 -->
+        <test-method signature="test_83()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:10 AEST" name="test_83" finished-at="2024-05-18T10:38:10 AEST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_83 -->
+        <test-method signature="test_84()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:10 AEST" name="test_84" finished-at="2024-05-18T10:38:10 AEST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_84 -->
+        <test-method signature="test_85()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:10 AEST" name="test_85" finished-at="2024-05-18T10:38:10 AEST" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_85 -->
+        <test-method signature="test_86()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:10 AEST" name="test_86" finished-at="2024-05-18T10:38:10 AEST" duration-ms="44" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[1 expectation failed.
+JSON path content doesn't match.
+Expected: <video controls><source src=\"Cabbages and Kings.mp4\" type=\"video/mp4\"><source src=\"Edna O'Brien.ogg\" type=\"video/ogg\"></video>
+  Actual: <video controls><source src=\"Cabbages and Kings.mp4\" type=\"video/mp4\"><source src=\"Edna O&#x27;Brien.ogg\" type=\"video/ogg\"></video>
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: 1 expectation failed.
+JSON path content doesn't match.
+Expected: <video controls><source src=\"Cabbages and Kings.mp4\" type=\"video/mp4\"><source src=\"Edna O'Brien.ogg\" type=\"video/ogg\"></video>
+  Actual: <video controls><source src=\"Cabbages and Kings.mp4\" type=\"video/mp4\"><source src=\"Edna O&#x27;Brien.ogg\" type=\"video/ogg\"></video>
+
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.codehaus.groovy.reflection.CachedConstructor.invoke(CachedConstructor.java:73)
+at org.codehaus.groovy.runtime.callsite.ConstructorSite$ConstructorSiteNoUnwrapNoCoerce.callConstructor(ConstructorSite.java:108)
+at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:277)
+at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure.validate(ResponseSpecificationImpl.groovy:512)
+at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure$validate$1.call(Unknown Source)
+at io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:696)
+at io.restassured.internal.ResponseSpecificationImpl.this$2$validateResponseIfRequired(ResponseSpecificationImpl.groovy)
+at jdk.internal.reflect.GeneratedMethodAccessor118.invoke(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite.doInvoke(PlainObjectMetaMethodSite.java:43)
+at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite$PogoCachedMethodSiteNoUnwrapNoCoerce.invoke(PogoMetaMethodSite.java:198)
+at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.callCurrent(PogoMetaMethodSite.java:62)
+at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:185)
+at io.restassured.internal.ResponseSpecificationImpl.body(ResponseSpecificationImpl.groovy:270)
+at io.restassured.specification.ResponseSpecification$body$0.callCurrent(Unknown Source)
+at io.restassured.internal.ResponseSpecificationImpl.body(ResponseSpecificationImpl.groovy:117)
+at io.restassured.internal.ValidatableResponseOptionsImpl.body(ValidatableResponseOptionsImpl.java:244)
+at com.sdetadda.allure.RestAssuredTestCases.test_86(RestAssuredTestCases.java:792)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:228)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:961)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:201)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:819)
+at org.testng.TestRunner.run(TestRunner.java:619)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_86 -->
+        <test-method signature="test_87()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:10 AEST" name="test_87" finished-at="2024-05-18T10:38:10 AEST" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_87 -->
+        <test-method signature="test_88()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:10 AEST" name="test_88" finished-at="2024-05-18T10:38:10 AEST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_88 -->
+        <test-method signature="test_89()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:10 AEST" name="test_89" finished-at="2024-05-18T10:38:10 AEST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_89 -->
+        <test-method signature="test_90()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:10 AEST" name="test_90" finished-at="2024-05-18T10:38:10 AEST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_90 -->
+        <test-method signature="test_91()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:10 AEST" name="test_91" finished-at="2024-05-18T10:38:10 AEST" duration-ms="58" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_91 -->
+        <test-method signature="test_92()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:10 AEST" name="test_92" finished-at="2024-05-18T10:38:10 AEST" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_92 -->
+        <test-method signature="test_93()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:10 AEST" name="test_93" finished-at="2024-05-18T10:38:10 AEST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_93 -->
+        <test-method signature="test_94()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:10 AEST" name="test_94" finished-at="2024-05-18T10:38:10 AEST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_94 -->
+        <test-method signature="test_95()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:10 AEST" name="test_95" finished-at="2024-05-18T10:38:10 AEST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_95 -->
+        <test-method signature="test_96()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:10 AEST" name="test_96" finished-at="2024-05-18T10:38:10 AEST" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_96 -->
+        <test-method signature="test_97()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:10 AEST" name="test_97" finished-at="2024-05-18T10:38:10 AEST" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_97 -->
+        <test-method signature="test_98()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:10 AEST" name="test_98" finished-at="2024-05-18T10:38:10 AEST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_98 -->
+        <test-method signature="test_99()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:10 AEST" name="test_99" finished-at="2024-05-18T10:38:11 AEST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_99 -->
+        <test-method signature="test_HeadingWithAnchor()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:11 AEST" name="test_HeadingWithAnchor" finished-at="2024-05-18T10:38:11 AEST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithAnchor -->
+        <test-method signature="test_HeadingWithAnchorAndId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:11 AEST" name="test_HeadingWithAnchorAndId" finished-at="2024-05-18T10:38:11 AEST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithAnchorAndId -->
+        <test-method signature="test_HeadingWithParagraph()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:11 AEST" name="test_HeadingWithParagraph" finished-at="2024-05-18T10:38:11 AEST" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraph -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:11 AEST" name="test_HeadingWithParagraphAndAnchorAndId" finished-at="2024-05-18T10:38:11 AEST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdEmptyHeading()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:11 AEST" name="test_HeadingWithParagraphAndAnchorAndIdEmptyHeading" finished-at="2024-05-18T10:38:11 AEST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdEmptyHeading -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndParagraph()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:11 AEST" name="test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndParagraph" finished-at="2024-05-18T10:38:11 AEST" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndParagraph -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndParagraphAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:11 AEST" name="test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndParagraphAndZeroId" finished-at="2024-05-18T10:38:11 AEST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndParagraphAndZeroId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndText()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:11 AEST" name="test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndText" finished-at="2024-05-18T10:38:11 AEST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndText -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndTextAndParagraph()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:11 AEST" name="test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndTextAndParagraph" finished-at="2024-05-18T10:38:11 AEST" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndTextAndParagraph -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndTextAndParagraphAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:11 AEST" name="test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndTextAndParagraphAndZeroId" finished-at="2024-05-18T10:38:11 AEST" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndTextAndParagraphAndZeroId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndTextAndUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:11 AEST" name="test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndTextAndUrl" finished-at="2024-05-18T10:38:11 AEST" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndTextAndUrl -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndTextAndUrlAndParagraph()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:11 AEST" name="test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndTextAndUrlAndParagraph" finished-at="2024-05-18T10:38:11 AEST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndTextAndUrlAndParagraph -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndTextAndUrlAndParagraphAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:11 AEST" name="test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndTextAndUrlAndParagraphAndZeroId" finished-at="2024-05-18T10:38:11 AEST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndTextAndUrlAndParagraphAndZeroId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndTextAndUrlAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:11 AEST" name="test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndTextAndUrlAndZeroId" finished-at="2024-05-18T10:38:11 AEST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndTextAndUrlAndZeroId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndTextAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:11 AEST" name="test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndTextAndZeroId" finished-at="2024-05-18T10:38:11 AEST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndTextAndZeroId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:11 AEST" name="test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndUrl" finished-at="2024-05-18T10:38:11 AEST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndUrl -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndUrlAndParagraph()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:11 AEST" name="test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndUrlAndParagraph" finished-at="2024-05-18T10:38:11 AEST" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndUrlAndParagraph -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndUrlAndParagraphAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:11 AEST" name="test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndUrlAndParagraphAndZeroId" finished-at="2024-05-18T10:38:11 AEST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndUrlAndParagraphAndZeroId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndUrlAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:11 AEST" name="test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndUrlAndZeroId" finished-at="2024-05-18T10:38:11 AEST" duration-ms="66" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndUrlAndZeroId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:12 AEST" name="test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndZeroId" finished-at="2024-05-18T10:38:12 AEST" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdEmptyHeadingAndZeroId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdEmptyParagraph()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:12 AEST" name="test_HeadingWithParagraphAndAnchorAndIdEmptyParagraph" finished-at="2024-05-18T10:38:12 AEST" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdEmptyParagraph -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdEmptyParagraphZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:12 AEST" name="test_HeadingWithParagraphAndAnchorAndIdEmptyParagraphZeroId" finished-at="2024-05-18T10:38:12 AEST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdEmptyParagraphZeroId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdEmptyText()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:12 AEST" name="test_HeadingWithParagraphAndAnchorAndIdEmptyText" finished-at="2024-05-18T10:38:12 AEST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdEmptyText -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdEmptyTextAndParagraph()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:12 AEST" name="test_HeadingWithParagraphAndAnchorAndIdEmptyTextAndParagraph" finished-at="2024-05-18T10:38:12 AEST" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdEmptyTextAndParagraph -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdEmptyTextAndParagraphAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:12 AEST" name="test_HeadingWithParagraphAndAnchorAndIdEmptyTextAndParagraphAndZeroId" finished-at="2024-05-18T10:38:12 AEST" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdEmptyTextAndParagraphAndZeroId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdEmptyTextAndUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:12 AEST" name="test_HeadingWithParagraphAndAnchorAndIdEmptyTextAndUrl" finished-at="2024-05-18T10:38:12 AEST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdEmptyTextAndUrl -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdEmptyTextAndUrlAndParagraph()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:12 AEST" name="test_HeadingWithParagraphAndAnchorAndIdEmptyTextAndUrlAndParagraph" finished-at="2024-05-18T10:38:12 AEST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdEmptyTextAndUrlAndParagraph -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdEmptyTextAndUrlAndParagraphAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:12 AEST" name="test_HeadingWithParagraphAndAnchorAndIdEmptyTextAndUrlAndParagraphAndZeroId" finished-at="2024-05-18T10:38:12 AEST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdEmptyTextAndUrlAndParagraphAndZeroId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdEmptyTextAndUrlAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:12 AEST" name="test_HeadingWithParagraphAndAnchorAndIdEmptyTextAndUrlAndZeroId" finished-at="2024-05-18T10:38:12 AEST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdEmptyTextAndUrlAndZeroId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdEmptyTextAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:12 AEST" name="test_HeadingWithParagraphAndAnchorAndIdEmptyTextAndZeroId" finished-at="2024-05-18T10:38:12 AEST" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdEmptyTextAndZeroId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdEmptyUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:12 AEST" name="test_HeadingWithParagraphAndAnchorAndIdEmptyUrl" finished-at="2024-05-18T10:38:12 AEST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdEmptyUrl -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdEmptyUrlAndParagraph()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:12 AEST" name="test_HeadingWithParagraphAndAnchorAndIdEmptyUrlAndParagraph" finished-at="2024-05-18T10:38:12 AEST" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdEmptyUrlAndParagraph -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdEmptyUrlAndParagraphAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:12 AEST" name="test_HeadingWithParagraphAndAnchorAndIdEmptyUrlAndParagraphAndZeroId" finished-at="2024-05-18T10:38:12 AEST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdEmptyUrlAndParagraphAndZeroId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdEmptyUrlZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:12 AEST" name="test_HeadingWithParagraphAndAnchorAndIdEmptyUrlZeroId" finished-at="2024-05-18T10:38:12 AEST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdEmptyUrlZeroId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdLongHeading()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:12 AEST" name="test_HeadingWithParagraphAndAnchorAndIdLongHeading" finished-at="2024-05-18T10:38:13 AEST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdLongHeading -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndParagraph()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:13 AEST" name="test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndParagraph" finished-at="2024-05-18T10:38:13 AEST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndParagraph -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndParagraphAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:13 AEST" name="test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndParagraphAndZeroId" finished-at="2024-05-18T10:38:13 AEST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndParagraphAndZeroId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndText()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:13 AEST" name="test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndText" finished-at="2024-05-18T10:38:13 AEST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndText -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndTextAndParagraph()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:13 AEST" name="test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndTextAndParagraph" finished-at="2024-05-18T10:38:13 AEST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndTextAndParagraph -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndTextAndParagraphAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:13 AEST" name="test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndTextAndParagraphAndZeroId" finished-at="2024-05-18T10:38:13 AEST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndTextAndParagraphAndZeroId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndTextAndUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:13 AEST" name="test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndTextAndUrl" finished-at="2024-05-18T10:38:13 AEST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndTextAndUrl -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndTextAndUrlAndParagraph()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:13 AEST" name="test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndTextAndUrlAndParagraph" finished-at="2024-05-18T10:38:13 AEST" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndTextAndUrlAndParagraph -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndTextAndUrlAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:13 AEST" name="test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndTextAndUrlAndZeroId" finished-at="2024-05-18T10:38:13 AEST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndTextAndUrlAndZeroId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndTextAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:13 AEST" name="test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndTextAndZeroId" finished-at="2024-05-18T10:38:13 AEST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndTextAndZeroId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:13 AEST" name="test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndUrl" finished-at="2024-05-18T10:38:13 AEST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndUrl -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndUrlAndParagraph()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:13 AEST" name="test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndUrlAndParagraph" finished-at="2024-05-18T10:38:13 AEST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndUrlAndParagraph -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndUrlAndParagraphAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:13 AEST" name="test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndUrlAndParagraphAndZeroId" finished-at="2024-05-18T10:38:13 AEST" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndUrlAndParagraphAndZeroId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndUrlAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:13 AEST" name="test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndUrlAndZeroId" finished-at="2024-05-18T10:38:13 AEST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndUrlAndZeroId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:13 AEST" name="test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndZeroId" finished-at="2024-05-18T10:38:13 AEST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdLongHeadingAndZeroId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdLongParagraph()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:13 AEST" name="test_HeadingWithParagraphAndAnchorAndIdLongParagraph" finished-at="2024-05-18T10:38:13 AEST" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdLongParagraph -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdLongParagraphZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:13 AEST" name="test_HeadingWithParagraphAndAnchorAndIdLongParagraphZeroId" finished-at="2024-05-18T10:38:13 AEST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdLongParagraphZeroId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdLongText()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:13 AEST" name="test_HeadingWithParagraphAndAnchorAndIdLongText" finished-at="2024-05-18T10:38:13 AEST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdLongText -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdLongTextAndParagraph()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:13 AEST" name="test_HeadingWithParagraphAndAnchorAndIdLongTextAndParagraph" finished-at="2024-05-18T10:38:13 AEST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdLongTextAndParagraph -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdLongTextAndParagraphAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:13 AEST" name="test_HeadingWithParagraphAndAnchorAndIdLongTextAndParagraphAndZeroId" finished-at="2024-05-18T10:38:13 AEST" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdLongTextAndParagraphAndZeroId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdLongTextAndUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:13 AEST" name="test_HeadingWithParagraphAndAnchorAndIdLongTextAndUrl" finished-at="2024-05-18T10:38:13 AEST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdLongTextAndUrl -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdLongTextAndUrlAndParagraph()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:13 AEST" name="test_HeadingWithParagraphAndAnchorAndIdLongTextAndUrlAndParagraph" finished-at="2024-05-18T10:38:13 AEST" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdLongTextAndUrlAndParagraph -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdLongTextAndUrlAndParagraphAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:13 AEST" name="test_HeadingWithParagraphAndAnchorAndIdLongTextAndUrlAndParagraphAndZeroId" finished-at="2024-05-18T10:38:13 AEST" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdLongTextAndUrlAndParagraphAndZeroId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdLongTextAndUrlAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:13 AEST" name="test_HeadingWithParagraphAndAnchorAndIdLongTextAndUrlAndZeroId" finished-at="2024-05-18T10:38:13 AEST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdLongTextAndUrlAndZeroId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdLongTextAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:13 AEST" name="test_HeadingWithParagraphAndAnchorAndIdLongTextAndZeroId" finished-at="2024-05-18T10:38:14 AEST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdLongTextAndZeroId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdLongUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:14 AEST" name="test_HeadingWithParagraphAndAnchorAndIdLongUrl" finished-at="2024-05-18T10:38:14 AEST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdLongUrl -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdLongUrlAndParagraph()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:14 AEST" name="test_HeadingWithParagraphAndAnchorAndIdLongUrlAndParagraph" finished-at="2024-05-18T10:38:14 AEST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdLongUrlAndParagraph -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdLongUrlAndParagraphAndZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:14 AEST" name="test_HeadingWithParagraphAndAnchorAndIdLongUrlAndParagraphAndZeroId" finished-at="2024-05-18T10:38:14 AEST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdLongUrlAndParagraphAndZeroId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdLongUrlZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:14 AEST" name="test_HeadingWithParagraphAndAnchorAndIdLongUrlZeroId" finished-at="2024-05-18T10:38:14 AEST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdLongUrlZeroId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdNullHeading()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:14 AEST" name="test_HeadingWithParagraphAndAnchorAndIdNullHeading" finished-at="2024-05-18T10:38:14 AEST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdNullHeading -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:14 AEST" name="test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndId" finished-at="2024-05-18T10:38:14 AEST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndParagraph()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:14 AEST" name="test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndParagraph" finished-at="2024-05-18T10:38:14 AEST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndParagraph -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndParagraphAndId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:14 AEST" name="test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndParagraphAndId" finished-at="2024-05-18T10:38:14 AEST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndParagraphAndId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndText()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:14 AEST" name="test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndText" finished-at="2024-05-18T10:38:14 AEST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndText -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndTextAndId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:14 AEST" name="test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndTextAndId" finished-at="2024-05-18T10:38:14 AEST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndTextAndId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndTextAndParagraph()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:14 AEST" name="test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndTextAndParagraph" finished-at="2024-05-18T10:38:14 AEST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndTextAndParagraph -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndTextAndParagraphAndId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:14 AEST" name="test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndTextAndParagraphAndId" finished-at="2024-05-18T10:38:14 AEST" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndTextAndParagraphAndId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndTextAndUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:14 AEST" name="test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndTextAndUrl" finished-at="2024-05-18T10:38:14 AEST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndTextAndUrl -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndTextAndUrlAndId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:14 AEST" name="test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndTextAndUrlAndId" finished-at="2024-05-18T10:38:14 AEST" duration-ms="81" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndTextAndUrlAndId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndTextAndUrlAndParagraph()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:14 AEST" name="test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndTextAndUrlAndParagraph" finished-at="2024-05-18T10:38:14 AEST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndTextAndUrlAndParagraph -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndTextAndUrlAndParagraphAndId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:14 AEST" name="test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndTextAndUrlAndParagraphAndId" finished-at="2024-05-18T10:38:14 AEST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndTextAndUrlAndParagraphAndId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:14 AEST" name="test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndUrl" finished-at="2024-05-18T10:38:14 AEST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndUrl -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndUrlAndId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:14 AEST" name="test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndUrlAndId" finished-at="2024-05-18T10:38:14 AEST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndUrlAndId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndUrlAndParagraph()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:14 AEST" name="test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndUrlAndParagraph" finished-at="2024-05-18T10:38:14 AEST" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndUrlAndParagraph -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndUrlAndParagraphAndId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:14 AEST" name="test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndUrlAndParagraphAndId" finished-at="2024-05-18T10:38:14 AEST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdNullHeadingAndUrlAndParagraphAndId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdNullId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:14 AEST" name="test_HeadingWithParagraphAndAnchorAndIdNullId" finished-at="2024-05-18T10:38:14 AEST" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdNullId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdNullParagraph()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:14 AEST" name="test_HeadingWithParagraphAndAnchorAndIdNullParagraph" finished-at="2024-05-18T10:38:14 AEST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdNullParagraph -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdNullParagraphAndId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:14 AEST" name="test_HeadingWithParagraphAndAnchorAndIdNullParagraphAndId" finished-at="2024-05-18T10:38:15 AEST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdNullParagraphAndId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdNullText()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:15 AEST" name="test_HeadingWithParagraphAndAnchorAndIdNullText" finished-at="2024-05-18T10:38:15 AEST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdNullText -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdNullTextAndId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:15 AEST" name="test_HeadingWithParagraphAndAnchorAndIdNullTextAndId" finished-at="2024-05-18T10:38:15 AEST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdNullTextAndId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdNullTextAndParagraph()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:15 AEST" name="test_HeadingWithParagraphAndAnchorAndIdNullTextAndParagraph" finished-at="2024-05-18T10:38:15 AEST" duration-ms="37" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[1 expectation failed.
+JSON path content doesn't match.
+Expected: <html><head><title>Heading with Anchor</title></head><body><h1>Eula O'Hara</h1><p></p><p>Paragraph with an achor: <a href=\"www.google.com\" id=\"478209179\"></a></p></body></html>
+  Actual: <html><head><title>Heading with Anchor</title></head><body><h1>Eula O&#x27;Hara</h1><p></p><p>Paragraph with an achor: <a href=\"www.google.com\" id=\"478209179\"></a></p></body></html>
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: 1 expectation failed.
+JSON path content doesn't match.
+Expected: <html><head><title>Heading with Anchor</title></head><body><h1>Eula O'Hara</h1><p></p><p>Paragraph with an achor: <a href=\"www.google.com\" id=\"478209179\"></a></p></body></html>
+  Actual: <html><head><title>Heading with Anchor</title></head><body><h1>Eula O&#x27;Hara</h1><p></p><p>Paragraph with an achor: <a href=\"www.google.com\" id=\"478209179\"></a></p></body></html>
+
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.codehaus.groovy.reflection.CachedConstructor.invoke(CachedConstructor.java:73)
+at org.codehaus.groovy.runtime.callsite.ConstructorSite$ConstructorSiteNoUnwrapNoCoerce.callConstructor(ConstructorSite.java:108)
+at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:277)
+at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure.validate(ResponseSpecificationImpl.groovy:512)
+at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure$validate$1.call(Unknown Source)
+at io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:696)
+at io.restassured.internal.ResponseSpecificationImpl.this$2$validateResponseIfRequired(ResponseSpecificationImpl.groovy)
+at jdk.internal.reflect.GeneratedMethodAccessor118.invoke(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite.doInvoke(PlainObjectMetaMethodSite.java:43)
+at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite$PogoCachedMethodSiteNoUnwrapNoCoerce.invoke(PogoMetaMethodSite.java:198)
+at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.callCurrent(PogoMetaMethodSite.java:62)
+at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:185)
+at io.restassured.internal.ResponseSpecificationImpl.body(ResponseSpecificationImpl.groovy:270)
+at io.restassured.specification.ResponseSpecification$body$0.callCurrent(Unknown Source)
+at io.restassured.internal.ResponseSpecificationImpl.body(ResponseSpecificationImpl.groovy:117)
+at io.restassured.internal.ValidatableResponseOptionsImpl.body(ValidatableResponseOptionsImpl.java:244)
+at com.sdetadda.allure.RestAssuredTestCases.test_HeadingWithParagraphAndAnchorAndIdNullTextAndParagraph(RestAssuredTestCases.java:4455)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:228)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:961)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:201)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:819)
+at org.testng.TestRunner.run(TestRunner.java:619)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdNullTextAndParagraph -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdNullTextAndParagraphAndId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:15 AEST" name="test_HeadingWithParagraphAndAnchorAndIdNullTextAndParagraphAndId" finished-at="2024-05-18T10:38:15 AEST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdNullTextAndParagraphAndId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdNullTextAndUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:15 AEST" name="test_HeadingWithParagraphAndAnchorAndIdNullTextAndUrl" finished-at="2024-05-18T10:38:15 AEST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdNullTextAndUrl -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdNullTextAndUrlAndId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:15 AEST" name="test_HeadingWithParagraphAndAnchorAndIdNullTextAndUrlAndId" finished-at="2024-05-18T10:38:15 AEST" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdNullTextAndUrlAndId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdNullTextAndUrlAndParagraph()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:15 AEST" name="test_HeadingWithParagraphAndAnchorAndIdNullTextAndUrlAndParagraph" finished-at="2024-05-18T10:38:15 AEST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdNullTextAndUrlAndParagraph -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdNullTextAndUrlAndParagraphAndId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:15 AEST" name="test_HeadingWithParagraphAndAnchorAndIdNullTextAndUrlAndParagraphAndId" finished-at="2024-05-18T10:38:15 AEST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdNullTextAndUrlAndParagraphAndId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdNullUrl()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:15 AEST" name="test_HeadingWithParagraphAndAnchorAndIdNullUrl" finished-at="2024-05-18T10:38:15 AEST" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdNullUrl -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdNullUrlAndId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:15 AEST" name="test_HeadingWithParagraphAndAnchorAndIdNullUrlAndId" finished-at="2024-05-18T10:38:15 AEST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdNullUrlAndId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdNullUrlAndParagraph()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:15 AEST" name="test_HeadingWithParagraphAndAnchorAndIdNullUrlAndParagraph" finished-at="2024-05-18T10:38:15 AEST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdNullUrlAndParagraph -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdNullUrlAndParagraphAndId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:15 AEST" name="test_HeadingWithParagraphAndAnchorAndIdNullUrlAndParagraphAndId" finished-at="2024-05-18T10:38:15 AEST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdNullUrlAndParagraphAndId -->
+        <test-method signature="test_HeadingWithParagraphAndAnchorAndIdZeroId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:15 AEST" name="test_HeadingWithParagraphAndAnchorAndIdZeroId" finished-at="2024-05-18T10:38:15 AEST" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndAnchorAndIdZeroId -->
+        <test-method signature="test_HeadingWithParagraphAndId()[pri:0, instance:com.sdetadda.allure.RestAssuredTestCases@4d722ac9]" started-at="2024-05-18T10:38:15 AEST" name="test_HeadingWithParagraphAndId" finished-at="2024-05-18T10:38:15 AEST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HeadingWithParagraphAndId -->
+      </class> <!-- com.sdetadda.allure.RestAssuredTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

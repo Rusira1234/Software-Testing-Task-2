@@ -1,0 +1,155 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>AllureReportJ2HTML</groupId>
+  <artifactId>AllureReportJ2HTML</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <parent>
+	<groupId>org.springframework.boot</groupId>
+	<artifactId>spring-boot-starter-parent</artifactId>
+	<version>3.2.4</version>
+	<relativePath/> <!-- lookup parent from repository -->
+  </parent>
+  <properties>
+   <evosuiteVersion>1.0.6</evosuiteVersion>
+  </properties>
+  <build>
+  	<pluginManagement>
+		<plugins>
+		   <plugin>
+		      <groupId>org.evosuite.plugins</groupId>
+		      <artifactId>evosuite-maven-plugin</artifactId>
+		      <version>${evosuiteVersion}</version>
+		      <executions>
+                    <execution>
+                        <id>generate-tests</id> <!-- Unique ID for the execution -->
+                        <phase>test</phase> <!-- Maven phase to execute the plugin -->
+                        <goals>
+                            <goal>generate</goal> <!-- Use 'generate' goal -->
+                        </goals>
+                    </execution>
+               </executions>
+		  </plugin>
+		</plugins>
+  	</pluginManagement>
+  </build>
+  
+  <pluginRepositories>
+	  <pluginRepository>
+	    <id>EvoSuite</id>
+	    <name>EvoSuite Repository</name>
+	    <url>http://www.evosuite.org/m2</url>
+	  </pluginRepository>
+  </pluginRepositories>
+  
+  <dependencies>
+  	<dependency>
+    	<groupId>junit</groupId>
+    	<artifactId>junit</artifactId>
+    	<version>4.13.2</version>
+    	<scope>test</scope>
+	</dependency>
+	
+	<dependency>
+    	<groupId>org.seleniumhq.selenium</groupId>
+    	<artifactId>selenium-java</artifactId>
+    	<version>4.18.1</version>
+	</dependency>
+	
+	<dependency>
+    	<groupId>io.qameta.allure</groupId>
+    	<artifactId>allure-junit5</artifactId>
+    	<version>2.26.0</version>
+    	<scope>test</scope>
+	</dependency>
+	
+	<dependency>
+      <groupId>com.j2html</groupId>
+      <artifactId>j2html</artifactId>
+      <version>1.6.0</version>
+    </dependency>
+    
+    <dependency>
+	  <groupId>org.springframework.boot</groupId>
+	  <artifactId>spring-boot-starter-web</artifactId>
+	</dependency>
+
+	<dependency>
+	  <groupId>org.springframework.boot</groupId>
+	  <artifactId>spring-boot-starter-test</artifactId>
+	  <scope>test</scope>
+	</dependency>
+	
+	<dependency>
+      <groupId>org.jsoup</groupId>
+      <artifactId>jsoup</artifactId>
+      <version>1.17.2</version>
+	</dependency>
+	
+	<dependency>
+     <groupId>io.rest-assured</groupId>
+     <artifactId>rest-assured</artifactId>
+     <version>5.4.0</version>
+     <scope>test</scope>
+    </dependency>
+    
+    <dependency>
+      <groupId>org.testng</groupId>
+      <artifactId>testng</artifactId>
+      <version>7.9.0</version>
+      <scope>test</scope>
+    </dependency>
+    
+    <dependency>
+	    <groupId>io.qameta.allure</groupId>
+	    <artifactId>allure-testng</artifactId>
+	    <version>2.26.0</version>
+	</dependency>
+    
+    <dependency>
+      <groupId>org.instancio</groupId>
+      <artifactId>instancio-junit</artifactId>
+      <version>LATEST</version>
+      <scope>test</scope>
+   </dependency>
+   
+   <dependency>
+    <groupId>net.datafaker</groupId>
+    <artifactId>datafaker</artifactId>
+    <version>2.1.0</version>
+   </dependency>
+   
+	<dependency>
+	    <groupId>ru.yandex.qatools.ashot</groupId>
+	    <artifactId>ashot</artifactId>
+	    <version>1.5.4</version>
+	</dependency>
+
+	<dependency>
+	    <groupId>com.google.code.gson</groupId>
+	    <artifactId>gson</artifactId>
+	    <version>2.10.1</version>
+	</dependency>
+
+	<dependency>
+	    <groupId>org.hamcrest</groupId>
+	    <artifactId>hamcrest</artifactId>
+	    <version>2.2</version>
+	    <scope>test</scope>
+	</dependency>
+	
+	<dependency>
+	  <groupId>org.evosuite</groupId>
+	  <artifactId>evosuite-standalone-runtime</artifactId>
+	  <version>${evosuiteVersion}</version>
+	  <scope>test</scope>
+    </dependency>
+    
+    <dependency>
+	    <groupId>org.jsoup</groupId>
+	    <artifactId>jsoup</artifactId>
+	    <version>1.14.3</version>
+	</dependency>
+
+
+  </dependencies>	
+</project>
