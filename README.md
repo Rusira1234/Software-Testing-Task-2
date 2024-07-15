@@ -5,19 +5,19 @@
 ### Rusira Liyanage
 ### Vincent Paul
 
-In this Test Suite, following testing tools are used.
+#### In this Test Suite, following testing tools are used.
 
-1.	Junit
-2.	TestNG
-3.	Rest Assured
-4.	Allure Reporting
-5.	Faker
-6.	aShot
-7.	Evosuite
+#### 1.	Junit
+#### 2.	TestNG
+#### 3.	Rest Assured
+#### 4.	Allure Reporting
+#### 5.	Faker
+#### 6.	aShot
+#### 7.	Evosuite
 
-Evosuite was used to generate test cases automatically for JUnit test methods and it is avaliabe as a seperate project for the reference of how test cases can be generated.
+#### Evosuite was used to generate test cases automatically for JUnit test methods and it is avaliabe as a seperate project for the reference of how test cases can be generated.
 
-The main reason to have seperate files for Junit test methods and test cases is to follow coding practices of java object oriented programming.
+#### The main reason to have seperate files for Junit test methods and test cases is to follow coding practices of java object oriented programming.
 
 ## Getting started
 ### 1. To build the project
