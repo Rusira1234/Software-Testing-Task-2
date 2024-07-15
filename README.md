@@ -17,7 +17,7 @@ The main reason to have seperate files for Junit test methods and test cases is 
 ## Getting started
 ### 1. To build the project
 
-1. right click on the parent directory "AllureReportJ2HTML".
+1. right click on the parent directory "Software-Testing-Task-2".
 2. go to maven -> Update Project
 
 ### 2. To run the JUnit Test cases
