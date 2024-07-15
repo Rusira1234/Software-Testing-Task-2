@@ -1,5 +1,10 @@
 # j2html Test Suite
 
+## Group Members (UOW "Software Testing and Analysis" subject group members for group assignment task 2 - 1st year 2nd Semester)
+
+### Rusira Liyanage
+### Vincent Paul
+
 In this Test Suite, following testing tools are used.
 
 1.	Junit
